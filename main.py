@@ -14,3 +14,5 @@ print(df.shape)
 print("\nDataset Info")
 df.info()
 
+#Data Cleaning and Standarization
+
