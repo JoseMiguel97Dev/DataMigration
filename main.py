@@ -38,3 +38,6 @@ print(df.head(10))
 
 print("\nFinal Inspection")
 df.info()
+
+df.to_csv('clean_crm_clients.csv')
+print("File 'clean_crm_client.csv' successfully generated!")
